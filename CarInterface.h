@@ -1,0 +1,5 @@
+#Pragma once
+
+class CarInterface {
+
+};
